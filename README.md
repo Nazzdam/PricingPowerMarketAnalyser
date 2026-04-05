@@ -1,4 +1,4 @@
-# 🇿🇦 SA Pricing Power & Market Structure Analyzer
+#  SA Pricing Power & Market Structure Analyzer
 
 A microeconomic analytics system that estimates firm pricing power, industry concentration, and competition dynamics across South African sectors.
 
@@ -9,7 +9,7 @@ A microeconomic analytics system that estimates firm pricing power, industry con
 - Measure industry concentration using HHI and CR4
 - Estimate firm-level markups and pricing power
 - Detect sectors with potential competition risks
-- Visualize market structure dynamics over time
+- Visualise market structure dynamics over time
 
 ---
 
